@@ -1,0 +1,8 @@
+.rounded {
+  width: 100%;
+  border: 1px solid purple;
+}
+
+#unicorns {
+  background-image: url("https://media.giphy.com/media/7ld4j42QzFMys/giphy.gif");
+}
